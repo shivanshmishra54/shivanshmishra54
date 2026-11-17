@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  I build resilient backend systems, accessible web experiences, and practical products with
-  <strong>Java, Spring Boot, React, and modern cloud-native tooling</strong>.
+  <strong>Build → Ship → Improve</strong><br />
+  Resilient backend systems · Accessible web products · Practical AI workflows
 </p>
 
 <p>
@@ -26,122 +26,92 @@
 
 </div>
 
+---
 
+## At a glance
 
-About me
+| | |
+| --- | --- |
+| 🎓 **Education** | B.Tech IT · K. J. Somaiya Institute of Technology · **8.72/10 CGPA** |
+| 💻 **Core focus** | Java · Spring Boot · React · Microservices · System Design |
+| 🌐 **Open source** | Spring Boot Admin contributor · **5 PRs submitted · 3 merged** |
+| 🏆 **Recognition** | ET GenAI Semi-Finalist · Adobe Top 200 |
+| 🧠 **Problem solving** | **200+** DSA problems |
+| 📍 **Location** | Mumbai, India |
 
-🎓 Pursuing a B.Tech in Information Technology at K. J. Somaiya Institute of Technology, Mumbai, with an 8.72/10 CGPA and expected graduation in 2028.
-🧩 Focused on Java, Spring Boot, Spring Security, microservices, REST APIs, React, and system design.
-🌐 Open-source contributor to Spring Boot Admin, with merged work across event storage, Hazelcast configuration, and diagnostic UI behavior.
-🏆 ET GenAI Hackathon 2026 semi-finalist among 55,000+ applicants and Adobe University Hackathon Round 3 qualifier in the top 200.
-🧠 Solved 200+ data-structures and algorithms problems across LeetCode and competitive programming platforms.
-📍 Based in Mumbai, India.
+<details>
+<summary><strong>What I am currently exploring</strong></summary>
 
-
-What I am currently exploring
 <br />
-Redis caching strategies and Apache Kafka event-driven systems
-Generative AI integrations and reliable LLM fallbacks
-Low-latency APIs, observability, and production-grade distributed architectures
-Technical writing and developer-focused YouTube content
 
+- Redis caching strategies and Apache Kafka event-driven systems
+- Generative AI integrations and reliable LLM fallbacks
+- Low-latency APIs, observability, and production-grade distributed architectures
+- Technical writing and developer-focused YouTube content
 
+</details>
 
-Technical toolkit
+---
+
+## Technical toolkit
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,html,css,tailwind,mysql,postgres,redis,kafka,docker,git,github,linux,vscode,idea" alt="Java, Spring, JavaScript, React, Next.js, HTML, CSS, Tailwind, MySQL, PostgreSQL, Redis, Kafka, Docker, Git, GitHub, Linux, VS Code and IntelliJ IDEA" />
 </p>
 
-Area
-Technologies
-Languages
-Java, JavaScript (ES6+), C, Python, SQL, HTML5, CSS3
-Backend
-Spring Boot, Spring Security, Spring Cloud Gateway, Netflix Eureka, REST APIs, JPA/Hibernate
-Frontend
-React, Next.js, Tailwind CSS, Radix UI, Recharts, React Leaflet, Vite
-Data & infrastructure
-MySQL, PostgreSQL, Redis, Apache Kafka, Docker, Docker Compose, Maven, Linux/Bash
-Engineering
-Microservices, JWT/RBAC, OOD, DSA, system design, JUnit, Vitest, Agile/Scrum
-Motion & 3D
-Framer Motion, Lenis, Anime.js, React Three Fiber, Three.js
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, JavaScript (ES6+), C, Python, SQL, HTML5, CSS3 |
+| **Backend** | Spring Boot, Spring Security, Spring Cloud Gateway, Netflix Eureka, REST APIs, JPA/Hibernate |
+| **Frontend** | React, Next.js, Tailwind CSS, Radix UI, Recharts, React Leaflet, Vite |
+| **Data & infrastructure** | MySQL, PostgreSQL, Redis, Apache Kafka, Docker, Docker Compose, Maven, Linux/Bash |
+| **Engineering** | Microservices, JWT/RBAC, OOD, DSA, system design, JUnit, Vitest, Agile/Scrum |
+| **Motion & 3D** | Framer Motion, Lenis, Anime.js, React Three Fiber, Three.js |
 
+---
 
+## Featured work
 
-Featured work
+| Project | What it proves | Stack |
+| --- | --- | --- |
+| [**Track2Act**](https://github.com/shivanshmishra54/track2act) | AI logistics · **6-role RBAC** · GPS telemetry · delay recommendations | `React` `Spring Boot` `MySQL` `Hugging Face` |
+| [**ShortUrl**](https://github.com/shivanshmishra54/spring-boot-react-url-shortener) | 4-service architecture · **56.8B+ URLs** · JWT · async analytics · caching | `Java` `Spring Cloud` `Eureka` `Docker` |
+| [**Security Login System**](https://github.com/shivanshmishra54/spring-boot-login-system) | OTP verification · BCrypt · password reset · role-based access | `Spring Security` `JPA` `MySQL` |
+| [**Employee Management**](https://github.com/shivanshmishra54/Employee-Management-System-using-React-and-Spring-Boot) | REST CRUD · layered architecture · validation · responsive data grids | `React` `Spring Boot` `Hibernate` |
 
-Track2Act — AI Supply Chain & Logistics Platform
+---
 
-An enterprise logistics platform with six-role RBAC, state-machine-driven shipment lifecycles, React Leaflet GPS telemetry, Recharts analytics, and a Hugging Face Mixtral-8x7B delay-intervention workflow with structured recommendations and rule-based fallbacks.
+## Experience & open source
 
-React Spring Boot Java 21 MySQL JWT Hugging Face React Leaflet
+| Role | Impact |
+| --- | --- |
+| **Open Source Contributor · Spring Boot Admin**<br />`Oct 2026 – Present` | **5 PRs submitted · 3 merged**<br />Event-store limits · Hazelcast cache controls · Thread-dump ordering · CI compliance |
+| **Web Development Intern · SkillCraft Technology**<br />`Aug 2025 – Sep 2025` | **4 applications shipped**<br />Landing page · Calculator · To-do app · Browser game |
 
-ShortUrl — Distributed URL Shortener
+---
 
-A Docker-orchestrated microservices system with Gateway, Eureka Discovery, URL Shortener, and Redirection services. It uses six-character Base-62 encoding for 56.8B+ unique URLs, JWT authentication, async analytics, caching, and a sub-15 ms target p95 redirect latency.
+## Proof points
 
-Java Spring Boot Spring Cloud Eureka React 19 Docker MySQL
+<p align="center">
+  <img src="https://img.shields.io/badge/200%2B-DSA_Problems-111111?style=for-the-badge" alt="200 plus DSA problems" />
+  <img src="https://img.shields.io/badge/5-PRs_Submitted-333333?style=for-the-badge" alt="5 pull requests submitted" />
+  <img src="https://img.shields.io/badge/3-PRs_Merged-555555?style=for-the-badge" alt="3 pull requests merged" />
+  <img src="https://img.shields.io/badge/55%2C000%2B-ET_Hackathon_Applicants-777777?style=for-the-badge" alt="55 thousand plus hackathon applicants" />
+</p>
 
-Spring Boot Security Login System
+| Category | Highlights |
+| --- | --- |
+| **Hackathons** | ET GenAI Semi-Finalist · Adobe Top 200 · AI for Bharat Qualified Prototype · ISRO UrbanCool AI |
+| **Certifications** | Databricks GenAI · J.P. Morgan SWE Simulation · HackerRank Java & SWE Intern · IIT Bombay Java |
+| **Academic merit** | Class XII College Topper · **89.33%** · Principal's Merit Award |
 
-An identity and access-management service with Spring Security 6, BCrypt hashing, asynchronous email OTP verification, time-limited password-reset tokens, and role-based access for user and admin workflows.
+---
 
-Java Spring Security JPA MySQL Thymeleaf Maven
+## Motion-driven portfolio
 
-Employee Management System
+> **The portfolio is not a resume dump.** It is a cinematic, monochrome experience that reveals the right depth for developers, recruiters, and clients.
 
-A full-stack workforce platform implementing controller-service-repository architecture, RESTful CRUD APIs, Hibernate entity mapping, validation, and responsive React data grids.
-
-
-
-Experience & open source
-
-Open Source Contributor — Spring Boot Admin
-
-October 2026 – Present · codecentric AG
-
-Submitted 5 pull requests, with 3 merged across distributed caching, event storage, and diagnostic UI systems.
-Added configurable aggregate log-size limits for in-memory and Hazelcast event stores to prevent unbounded event retention.
-Implemented selective Hazelcast cache configuration for high-availability deployments.
-Fixed thread-dump ordering by preserving backend response order with LinkedHashMap.
-Maintained CI compliance across Maven tests, Checkstyle, Spring Java Format, and Vitest.
-
-Web Development Intern — SkillCraft Technology
-
-August 2025 – September 2025
-
-Delivered four responsive web applications: a landing page, advanced calculator, state-managed to-do app, and browser game.
-Worked with JavaScript, React, HTML, CSS, DOM APIs, event handling, and rendering performance.
-Collaborated in a remote Agile/Scrum workflow with standups, code reviews, and sprint delivery.
-
-
-
-Achievements & certifications
-
-ET GenAI Hackathon 2026: Semi-finalist among 55,000+ applicants.
-Adobe University Hackathon 2026: Round 3 qualifier, top 200.
-AI for Bharat Hackathon (AWS): Qualified prototype with Team CodeArc.
-Bharatiya Antariksh Hackathon (ISRO): Submitted the UrbanCool AI concept.
-Dreamflow Buildathon 2025: Built StudySphere, a collaborative productivity platform.
-Databricks Generative AI Fundamentals accreditation.
-J.P. Morgan Software Engineering Job Simulation.
-HackerRank Software Engineer Intern and Java (Basic) certifications.
-IIT Bombay Spoken Tutorial Java certification: 72.50%.
-Class XII College Topper: 89.33%, recipient of the Principal's Merit Award.
-
-
-
-Motion-driven portfolio
-
-This repository contains my personal portfolio, designed as a cinematic monochrome experience with progressive disclosure for developer and freelance audiences.
-
-Framer Motion: page transitions, scroll reveals, layout transitions, and interactive UI states.
-Lenis: smooth scrolling while preserving native navigation behavior.
-React Three Fiber and Three.js: lazy-loaded 3D scenes with graceful fallbacks.
-Anime.js: editorial text and signal-style micro-interactions.
-Reduced-motion support: animations respect prefers-reduced-motion.
+`Framer Motion` page transitions · `Lenis` smooth scroll · `React Three Fiber` lazy 3D · `Anime.js` micro-interactions · `prefers-reduced-motion` support
 
 Explore the live experience:
 
@@ -157,9 +127,9 @@ Explore the live experience:
   </a>
 </p>
 
+---
 
-
-GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -176,9 +146,9 @@ GitHub activity
 
 </div>
 
+---
 
-
-Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/shivanshmishra54">GitHub</a>
